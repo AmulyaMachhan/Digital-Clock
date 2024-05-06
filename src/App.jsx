@@ -29,6 +29,7 @@ function App() {
 
   return (
     <>
+      <h1>DIGITAL CLOCK</h1>
       <div className="clock-container">
         <div className="clock">
           <span>{formatTime(time)}</span>
