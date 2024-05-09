@@ -76,6 +76,7 @@ my-app/
 │   │   └── App.js
 │   └── App.css
 └── package.json
+```
 
 ## Code Overview
 
