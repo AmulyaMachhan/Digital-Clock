@@ -54,6 +54,7 @@ To create a production build of the application, run:
 
 ```bash
 npm run build
+```
 
 This will generate a `build` folder containing the optimized production-ready files.
 
