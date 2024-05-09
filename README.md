@@ -2,6 +2,8 @@
 
 This project is a simple React application that displays a digital clock. The clock updates every second to show the current time in a 12-hour format with AM/PM indication.
 
+You can view this site [here](https://amulyamachhan.github.io/Digital-Clock/).
+
 ## Features
 
 - Real-time digital clock that updates every second.
