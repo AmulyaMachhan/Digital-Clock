@@ -4,6 +4,8 @@ This project is a simple React application that displays a digital clock. The cl
 
 You can view this site [here](https://amulyamachhan.github.io/Digital-Clock/).
 
+![amulyamachhan github io_Digital-Clock_ (1)](https://github.com/AmulyaMachhan/Digital-Clock/assets/111338400/ef6268a8-c469-4c79-bd60-ef995edd7dbb)
+
 ## Features
 
 - Real-time digital clock that updates every second.
